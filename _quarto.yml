@@ -29,7 +29,7 @@ website:
       - icon: rss
         href: blog.xml
   page-footer:
-    left: "© Copyright 2022 Jorge M. Estrada . todo el texto e imagenes licensed CC-BY-NC 4.0."
+    left: "© Copyright 2023 Jorge M. Estrada . todo el texto e imagenes licensed CC-BY-NC 4.0."
 format:
   html:
     theme: [sandstone, _variables.scss]
