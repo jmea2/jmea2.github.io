@@ -1,0 +1,167 @@
+---
+title: "Capacitación RedCap"
+author: "Jorge Mario Estrada Alvaréz. MSc. PhD(c)"
+institute: "Instituto Nacional de Salud - Programa de Entrenamiento avanzado en Epidemiologia de Campo"
+logo: "logo.png"
+footer: "[REDCap](https://projectredcap.org)"
+format: 
+  revealjs: 
+    theme: slides.scss
+    transition: fade
+    slide-number: true
+echo: false
+cache: true
+page-layout: full
+---
+
+# 
+
+![](imagenes/redcap_logo.png){fig-align="center"}
+
+## Desafio en un proyecto de investigación en lo relacionado a los datos
+
+![Taming the Data Beast, by Allison Horst](imagenes/data_organizacion.jpeg)
+
+Fuente: Taming the Data Beast, from Allison Horst's [Data Science Illustrations](https://allisonhorst.com/data-science-art)
+
+## Qué es REDCap
+
+*Es una aplicación web:*
+
+-   Versátil y segura
+
+-   En su mayoría de autoservicio
+
+-   Permite crear e implementar rápidamente proyectos de recopilación de datos y encuestas
+
+-   Está diseñado para admitir una variedad de estrategias de captura de datos, flujos de trabajo y requisitos de cumplimiento de seguridad.
+
+Aunque está orientado principalmente a estudios de investigación, también se puede utilizar para apoyar la mejora de la calidad y proyectos operativos.
+
+La aplicación tiene licencia para la Universidad de Vanderbilt. Para obtener más información sobre el consorcio REDCap, visite [REDCap](https://projectredcap.org)
+
+## Qué nos facilita REDCap
+
+::: incremental
+-   Gestión completa de la recolección de datos para proyectos de investigacion o con otros fines
+
+-   Distintas estrategia de recolección:
+
+    1.  Encuesta transversal (único momento, con uno o varios formularios)
+    2.  Encuesta longitudinal (momento fijos o instrumentos repetidos)
+    3.  Recolección multicentrica
+    4.  Encuesta web (enlace o correo electrónico)
+
+-   Evaluación en linea de la calidad de los datos con seguimiento sobre cada unidad de observación
+
+-   Diversidad de formatos (Visualizacion de formulario), tipos de datos (texto, numero, archivos, fotos, coordenadas, audio, vídeo)
+
+-   Conexions API desde otras aplicaciones
+
+-   Recolección mediante link, APP (android - Iphone) online u offline
+:::
+
+## Requisito obligatorio: Instalación solo y exclusivamente en servidores (Preferiblemente institucional)
+
+Representa la mayor ventaja en la fase recolección de datos, donde recolectan datos sensibles, no es dependiente de un usuario especifico, ni de equipos locales como tecnicos, digitadores o staff investigativo.
+
+# Iniciemos . . .
+
+## Definiendo
+
+![**Fuente:** Illustrations from Hadley Wickham's ACM talk "The Joy of Functional Programming (for Data Science)](imagenes/planeacion.png){width="70%"}
+
+## Variables - Campos
+
+::: callout-important
+**Insumos:** instrumentos, variables - validaciones - secuencia lógica en el diligenciamiento - variables calculadas)
+:::
+
+![**Fuente:** Illustrations from Hadley Wickham's ACM talk "The Joy of Functional Programming (for Data Science)](imagenes/variables.png){width="70%"}
+
+# Abrir REDCap:
+
+-   Tienes un usuario y clave por tu institución para acceder a la plataforma
+
+-   Acceder a URL institucional de REDCap.
+
+## Fases en el desarrollo
+
+### Fase incial:
+
+::: incremental
+1.  Creación del proyecto
+
+2.  Configuración del proyecto
+
+3.  Diseño de formularios
+:::
+
+![**Fuente:** Illustrations from Hadley Wickham's ACM talk "The Joy of Functional Programming (for Data Science)](imagenes/creacion.png){width="60%"}
+
+# Crear proyecto / instrumento
+
+![Imagen REDCap](imagenes/crea_instrumento.png){width="100%"}
+
+## Completar campos para creación del proyecto
+
+![Imagen REDCap](imagenes/crea_instrumento2.png){width="100%"}
+
+## Configuración del proyecto
+
+![Imagen REDCap](imagenes/conf_proyecto.png){width="100%"}
+
+## Agregar un nuevo campo
+
+![Imagen REDCap](imagenes/agre_nuevocampo.png){width="100%"}
+
+## Seleccionar un tipo de campo a usar
+
+![Imagen REDCap](imagenes/tipo_campo.png){width="100%"}
+
+## Formato de campo
+
+![Imagen REDCap](imagenes/formato_campo.png){width="100%"}
+
+## Formato de campo
+
+![Imagen REDCap](imagenes/validacion_logica.png){width="60%"}
+
+## Formularios finales
+
+::: columns
+::: {.column width="50%"}
+**Formulario por defecto**
+![](imagenes/formulario_normal.png){width="100%"}
+
+:::
+
+::: {.column width="50%"}
+**Formulario personalizado**
+
+![](imagenes/formulario_emb.png){width="100%"}
+:::
+
+:::
+
+## Campo embebido
+
+![](imagenes/campo_emb.png){width="100%"}
+
+# Configuraciones finales 
+
+![](imagenes/visualizacion.png){width="100%"}
+
+# Personalizaciones 
+
+![](imagenes/personalizaciones.png){width="100%"}   
+
+# Formulario listo y probado a fondo
+
+![](imagenes/final.png){width="100%"}
+
+# Recolección de datos
+
+![](imagenes/recolecion_dato.png){width="30%"}
+
+# Gracias

@@ -1,0 +1,36 @@
+project:
+  type: website
+  resources:
+    - keybase.txt
+
+website:
+  title: "Jorge Mario Estrada Alvarez"
+  site-url: ""
+  description: "Epidemiologia y Ciencia de Datos"
+  open-graph:
+    locale: en_US
+  twitter-card:
+    creator: "@epidemiologiaB2"
+  comments:
+    utterances:
+      repo: https://github.com/jmea2
+  navbar:
+    right:
+      - text: "Home"
+        href: index.html
+      - text: "Publicaciones"
+        href: articulos/papers.qmd
+      - text: "Conferencias"
+        href: conferencias/Charlas.qmd
+      - text: "Presentaciones"
+        href: charlas/presentacion_redcap.qmd
+      - text: "Blog"
+        href: blog.html
+      - icon: rss
+        href: blog.xml
+  page-footer:
+    left: "© Copyright 2022 Jorge M. Estrada . todo el texto e imagenes licensed CC-BY-NC 4.0."
+format:
+  html:
+    theme: [sandstone, _variables.scss]
+    css: styles.css

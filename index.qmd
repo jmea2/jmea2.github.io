@@ -1,0 +1,75 @@
+---
+title: "Jorge Mario Estrada Alvarez"
+image: avatar.jpeg
+about:
+  template: trestles
+  links:
+    - text: LinkedIn
+      url: "https://www.linkedin.com/in/jorge-mario-estrada-alvarez-3972723b/"
+    - text: Twitter
+      icon: twitter
+      url: "https://twitter.com/epidemiologiaB2"
+    - text: GitHub
+      icon: github
+      url: ""
+    - text: Blog
+      url: "blog.html"
+    - text: CVLAC
+      url: "https://scienti.minciencias.gov.co/cvlac/visualizador/generarCurriculoCv.do?cod_rh=0000542458"
+comments: false
+editor: 
+  markdown: 
+    wrap: 80
+---
+::: {.column-page}
+
+## Bio
+
+
+soy un profesional de salud con grado en matematicas, Epidemiologo y estudio PhD en Estadistica Aplicada en Universidad de Granada de España, realizo un Fellowship en Field Epidemiology Traning Program (FETP) del Instituto Nacional de Salud de Colombia.
+
+Mi trabajo actual se enfoca en la vigilancia de enfermedades de interés en salud publica, especialmente enfermedades infecciosas, así como también el desarrollo de investigación clinica aplicada, concentración en la implementación de diferentes aplicaciones de la ciencia de datos en salud, salud pública, epidemiologia y Geodata en salud.
+
+Soy un entusiasta de R Software, busco e implemento paquetes de R para el análisis de datos y producción de resultados tipo publicación.
+
+Dirijo el grupo de vigilancia en salud publica y respuesta a brotes y epidemias en una entidad territorial de salud del municipio de Pereira, asi como también hago parte del Centro Internacional de investigación en
+salud Comfamiliar (siglas en ingles INCERH), donde hago parte del Grupo de Investogación Salud Comfamiliar categoria A1 segun clasificacion del Ministerio de Ciencia y Tecnologia de Colombia.
+
+<p></p>
+
+## Educación
+
+**Universitaria**
+
+- BSc. en Matematicas y Fisica. Universidad Tecnologica de Pereira, Colombia.
+
+- MSc. en epidemiologia clinica. Universidad de la Frontera, Temuco, Chile.
+
+- MSc. en Estadistica Aplicada. Universidad de Granada, Granada, España.
+
+- Master en Machine Learning con R (Titulo propio).
+
+- PhD (estudiante) en Estadistica Aplicada. Universidad de Granada, Granada, España.
+
+<p></p>
+
+## Intereses de Investigación
+
+- Investigación epidemiologica de Campo
+
+- Métodos estadísticos para la vigilancia en Salud publica en la detección de brotes o comportamientos inusuales
+
+- Resistencia antimicrobiana
+
+- Análisis Espacial en salud publica para priorización e identificacion de problemas en salud publica
+
+- Enseñanza e implementación de R software en Epidemiologia de campo Front-Line, Intermedio y Avanzado.
+
+- Implementación de Muestreo en encuestas en salud publica
+
+- Vigilancia de circulación viral respiratoria e Infección Respiratoria Aguda.
+
+:::
+
+
+
