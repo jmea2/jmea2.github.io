@@ -222,5 +222,117 @@
     "title": "Jorge Mario Estrada Alvarez",
     "section": "",
     "text": "Algunos libros de R para iniciar en su aprendizaje\n\n\n\n\n\n\nPublications\n\n\nBeaver\n\n\n\nIniciando en R\n\n\n\n\n\nSep 2, 2022\n\n\nJorge Mario Estrada\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "conferencias/Charlas.html",
+    "href": "conferencias/Charlas.html",
+    "title": "Conferencias",
+    "section": "",
+    "text": "Uso de Mendeley en Investigacion. Curso en Metodologia de la Investigación. Comfamiliar Risaralda. GESTOR BIBLIGRAFICO.pdf\nIdentificando el problema de investigación Curso en Metodologia de la Investigación. comfamiliar Risaralda. el problema.ppt"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#desafio-en-un-proyecto-de-investigación-en-lo-relacionado-a-los-datos",
+    "href": "charlas/presentacion_redcap.html#desafio-en-un-proyecto-de-investigación-en-lo-relacionado-a-los-datos",
+    "title": "Capacitación RedCap",
+    "section": "Desafio en un proyecto de investigación en lo relacionado a los datos",
+    "text": "Desafio en un proyecto de investigación en lo relacionado a los datos\n\nTaming the Data Beast, by Allison HorstFuente: Taming the Data Beast, from Allison Horst’s Data Science Illustrations"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#qué-es-redcap",
+    "href": "charlas/presentacion_redcap.html#qué-es-redcap",
+    "title": "Capacitación RedCap",
+    "section": "Qué es REDCap",
+    "text": "Qué es REDCap\nEs una aplicación web:\n\nVersátil y segura\nEn su mayoría de autoservicio\nPermite crear e implementar rápidamente proyectos de recopilación de datos y encuestas\nEstá diseñado para admitir una variedad de estrategias de captura de datos, flujos de trabajo y requisitos de cumplimiento de seguridad.\n\nAunque está orientado principalmente a estudios de investigación, también se puede utilizar para apoyar la mejora de la calidad y proyectos operativos.\nLa aplicación tiene licencia para la Universidad de Vanderbilt. Para obtener más información sobre el consorcio REDCap, visite REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#qué-nos-facilita-redcap",
+    "href": "charlas/presentacion_redcap.html#qué-nos-facilita-redcap",
+    "title": "Capacitación RedCap",
+    "section": "Qué nos facilita REDCap",
+    "text": "Qué nos facilita REDCap\n\n\nGestión completa de la recolección de datos para proyectos de investigacion o con otros fines\nDistintas estrategia de recolección:\n\nEncuesta transversal (único momento, con uno o varios formularios)\nEncuesta longitudinal (momento fijos o instrumentos repetidos)\nRecolección multicentrica\nEncuesta web (enlace o correo electrónico)\n\nEvaluación en linea de la calidad de los datos con seguimiento sobre cada unidad de observación\nDiversidad de formatos (Visualizacion de formulario), tipos de datos (texto, numero, archivos, fotos, coordenadas, audio, vídeo)\nConexions API desde otras aplicaciones\nRecolección mediante link, APP (android - Iphone) online u offline"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#requisito-obligatorio-instalación-solo-y-exclusivamente-en-servidores-preferiblemente-institucional",
+    "href": "charlas/presentacion_redcap.html#requisito-obligatorio-instalación-solo-y-exclusivamente-en-servidores-preferiblemente-institucional",
+    "title": "Capacitación RedCap",
+    "section": "Requisito obligatorio: Instalación solo y exclusivamente en servidores (Preferiblemente institucional)",
+    "text": "Requisito obligatorio: Instalación solo y exclusivamente en servidores (Preferiblemente institucional)\nRepresenta la mayor ventaja en la fase recolección de datos, donde recolectan datos sensibles, no es dependiente de un usuario especifico, ni de equipos locales como tecnicos, digitadores o staff investigativo."
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#definiendo",
+    "href": "charlas/presentacion_redcap.html#definiendo",
+    "title": "Capacitación RedCap",
+    "section": "Definiendo",
+    "text": "Definiendo\n\nFuente: Illustrations from Hadley Wickham’s ACM talk “The Joy of Functional Programming (for Data Science)"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#variables---campos",
+    "href": "charlas/presentacion_redcap.html#variables---campos",
+    "title": "Capacitación RedCap",
+    "section": "Variables - Campos",
+    "text": "Variables - Campos\n\n\n\n\n\n\nImportant\n\n\nInsumos: instrumentos, variables - validaciones - secuencia lógica en el diligenciamiento - variables calculadas)\n\n\n\n\nFuente: Illustrations from Hadley Wickham’s ACM talk “The Joy of Functional Programming (for Data Science)"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#fases-en-el-desarrollo",
+    "href": "charlas/presentacion_redcap.html#fases-en-el-desarrollo",
+    "title": "Capacitación RedCap",
+    "section": "Fases en el desarrollo",
+    "text": "Fases en el desarrollo\nFase incial:\n\n\nCreación del proyecto\nConfiguración del proyecto\nDiseño de formularios\n\n\n\nFuente: Illustrations from Hadley Wickham’s ACM talk “The Joy of Functional Programming (for Data Science)"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#completar-campos-para-creación-del-proyecto",
+    "href": "charlas/presentacion_redcap.html#completar-campos-para-creación-del-proyecto",
+    "title": "Capacitación RedCap",
+    "section": "Completar campos para creación del proyecto",
+    "text": "Completar campos para creación del proyecto\n\nImagen REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#configuración-del-proyecto",
+    "href": "charlas/presentacion_redcap.html#configuración-del-proyecto",
+    "title": "Capacitación RedCap",
+    "section": "Configuración del proyecto",
+    "text": "Configuración del proyecto\n\nImagen REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#agregar-un-nuevo-campo",
+    "href": "charlas/presentacion_redcap.html#agregar-un-nuevo-campo",
+    "title": "Capacitación RedCap",
+    "section": "Agregar un nuevo campo",
+    "text": "Agregar un nuevo campo\n\nImagen REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#seleccionar-un-tipo-de-campo-a-usar",
+    "href": "charlas/presentacion_redcap.html#seleccionar-un-tipo-de-campo-a-usar",
+    "title": "Capacitación RedCap",
+    "section": "Seleccionar un tipo de campo a usar",
+    "text": "Seleccionar un tipo de campo a usar\n\nImagen REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#formato-de-campo",
+    "href": "charlas/presentacion_redcap.html#formato-de-campo",
+    "title": "Capacitación RedCap",
+    "section": "Formato de campo",
+    "text": "Formato de campo\n\nImagen REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#formato-de-campo-1",
+    "href": "charlas/presentacion_redcap.html#formato-de-campo-1",
+    "title": "Capacitación RedCap",
+    "section": "Formato de campo",
+    "text": "Formato de campo\n\nImagen REDCap"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#formularios-finales",
+    "href": "charlas/presentacion_redcap.html#formularios-finales",
+    "title": "Capacitación RedCap",
+    "section": "Formularios finales",
+    "text": "Formularios finales\n\n\nFormulario por defecto \n\nFormulario personalizado"
+  },
+  {
+    "objectID": "charlas/presentacion_redcap.html#campo-embebido",
+    "href": "charlas/presentacion_redcap.html#campo-embebido",
+    "title": "Capacitación RedCap",
+    "section": "Campo embebido",
+    "text": "Campo embebido"
   }
 ]
