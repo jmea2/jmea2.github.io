@@ -1,0 +1,226 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "soy un profesional de salud con grado en matematicas, Epidemiologo y estudio PhD en Estadistica Aplicada en Universidad de Granada de España, realizo un Fellowship en Field Epidemiology Traning Program (FETP) del Instituto Nacional de Salud de Colombia.\nMi trabajo actual se enfoca en la vigilancia de enfermedades de interés en salud publica, especialmente enfermedades infecciosas, así como también el desarrollo de investigación clinica aplicada, concentración en la implementación de diferentes aplicaciones de la ciencia de datos en salud, salud pública, epidemiologia y Geodata en salud.\nSoy un entusiasta de R Software, busco e implemento paquetes de R para el análisis de datos y producción de resultados tipo publicación.\nDirijo el grupo de vigilancia en salud publica y respuesta a brotes y epidemias en una entidad territorial de salud del municipio de Pereira, asi como también hago parte del Centro Internacional de investigación en salud Comfamiliar (siglas en ingles INCERH), donde hago parte del Grupo de Investogación Salud Comfamiliar categoria A1 segun clasificacion del Ministerio de Ciencia y Tecnologia de Colombia.\n\n\n\n\n\nUniversitaria\n\nBSc. en Matematicas y Fisica. Universidad Tecnologica de Pereira, Colombia.\nMSc. en epidemiologia clinica. Universidad de la Frontera, Temuco, Chile.\nMSc. en Estadistica Aplicada. Universidad de Granada, Granada, España.\nMaster en Machine Learning con R (Titulo propio).\nPhD (estudiante) en Estadistica Aplicada. Universidad de Granada, Granada, España.\n\n\n\n\n\n\n\nInvestigación epidemiologica de Campo\nMétodos estadísticos para la vigilancia en Salud publica en la detección de brotes o comportamientos inusuales\nResistencia antimicrobiana\nAnálisis Espacial en salud publica para priorización e identificacion de problemas en salud publica\nEnseñanza e implementación de R software en Epidemiologia de campo Front-Line, Intermedio y Avanzado.\nImplementación de Muestreo en encuestas en salud publica\nVigilancia de circulación viral respiratoria e Infección Respiratoria Aguda."
+  },
+  {
+    "objectID": "index.html#bio",
+    "href": "index.html#bio",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "soy un profesional de salud con grado en matematicas, Epidemiologo y estudio PhD en Estadistica Aplicada en Universidad de Granada de España, realizo un Fellowship en Field Epidemiology Traning Program (FETP) del Instituto Nacional de Salud de Colombia.\nMi trabajo actual se enfoca en la vigilancia de enfermedades de interés en salud publica, especialmente enfermedades infecciosas, así como también el desarrollo de investigación clinica aplicada, concentración en la implementación de diferentes aplicaciones de la ciencia de datos en salud, salud pública, epidemiologia y Geodata en salud.\nSoy un entusiasta de R Software, busco e implemento paquetes de R para el análisis de datos y producción de resultados tipo publicación.\nDirijo el grupo de vigilancia en salud publica y respuesta a brotes y epidemias en una entidad territorial de salud del municipio de Pereira, asi como también hago parte del Centro Internacional de investigación en salud Comfamiliar (siglas en ingles INCERH), donde hago parte del Grupo de Investogación Salud Comfamiliar categoria A1 segun clasificacion del Ministerio de Ciencia y Tecnologia de Colombia."
+  },
+  {
+    "objectID": "index.html#educación",
+    "href": "index.html#educación",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "Universitaria\n\nBSc. en Matematicas y Fisica. Universidad Tecnologica de Pereira, Colombia.\nMSc. en epidemiologia clinica. Universidad de la Frontera, Temuco, Chile.\nMSc. en Estadistica Aplicada. Universidad de Granada, Granada, España.\nMaster en Machine Learning con R (Titulo propio).\nPhD (estudiante) en Estadistica Aplicada. Universidad de Granada, Granada, España."
+  },
+  {
+    "objectID": "index.html#intereses-de-investigación",
+    "href": "index.html#intereses-de-investigación",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "Investigación epidemiologica de Campo\nMétodos estadísticos para la vigilancia en Salud publica en la detección de brotes o comportamientos inusuales\nResistencia antimicrobiana\nAnálisis Espacial en salud publica para priorización e identificacion de problemas en salud publica\nEnseñanza e implementación de R software en Epidemiologia de campo Front-Line, Intermedio y Avanzado.\nImplementación de Muestreo en encuestas en salud publica\nVigilancia de circulación viral respiratoria e Infección Respiratoria Aguda."
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "Algunos libros de R para iniciar en su aprendizaje\n\n\n\n\n\n\nPublications\n\n\nBeaver\n\n\n\nIniciando en R\n\n\n\n\n\nSep 2, 2022\n\n\nJorge Mario Estrada\n\n\n\n\n\n\n\n\n\n\n\n\nAlgunos libros de R para iniciar en su aprendizaje\n\n\n\n\n\n\nPublications\n\n\nBeaver\n\n\n\nIniciando en R\n\n\n\n\n\nSep 2, 2022\n\n\nJorge Mario Estrada\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html",
+    "title": "Capacitación RedCap",
+    "section": "",
+    "text": "Taming the Data Beast, by Allison Horst\n\n\nFuente: Taming the Data Beast, from Allison Horst’s Data Science Illustrations\n\n\n\nEs una aplicación web:\n\nVersátil y segura\nEn su mayoría de autoservicio\nPermite crear e implementar rápidamente proyectos de recopilación de datos y encuestas\nEstá diseñado para admitir una variedad de estrategias de captura de datos, flujos de trabajo y requisitos de cumplimiento de seguridad.\n\nAunque está orientado principalmente a estudios de investigación, también se puede utilizar para apoyar la mejora de la calidad y proyectos operativos.\nLa aplicación tiene licencia para la Universidad de Vanderbilt. Para obtener más información sobre el consorcio REDCap, visite REDCap\n\n\n\n\n\nGestión completa de la recolección de datos para proyectos de investigacion o con otros fines\nDistintas estrategia de recolección:\n\nEncuesta transversal (único momento, con uno o varios formularios)\nEncuesta longitudinal (momento fijos o instrumentos repetidos)\nRecolección multicentrica\nEncuesta web (enlace o correo electrónico)\n\nEvaluación en linea de la calidad de los datos con seguimiento sobre cada unidad de observación\nDiversidad de formatos (Visualizacion de formulario), tipos de datos (texto, numero, archivos, fotos, coordenadas, audio, vídeo)\nConexions API desde otras aplicaciones\nRecolección mediante link, APP (android - Iphone) online u offline\n\n\n\n\n\nRepresenta la mayor ventaja en la fase recolección de datos, donde recolectan datos sensibles, no es dependiente de un usuario especifico, ni de equipos locales como tecnicos, digitadores o staff investigativo."
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#desafio-en-un-proyecto-de-investigación-en-lo-relacionado-a-los-datos",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#desafio-en-un-proyecto-de-investigación-en-lo-relacionado-a-los-datos",
+    "title": "Capacitación RedCap",
+    "section": "",
+    "text": "Taming the Data Beast, by Allison Horst\n\n\nFuente: Taming the Data Beast, from Allison Horst’s Data Science Illustrations"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#qué-es-redcap",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#qué-es-redcap",
+    "title": "Capacitación RedCap",
+    "section": "",
+    "text": "Es una aplicación web:\n\nVersátil y segura\nEn su mayoría de autoservicio\nPermite crear e implementar rápidamente proyectos de recopilación de datos y encuestas\nEstá diseñado para admitir una variedad de estrategias de captura de datos, flujos de trabajo y requisitos de cumplimiento de seguridad.\n\nAunque está orientado principalmente a estudios de investigación, también se puede utilizar para apoyar la mejora de la calidad y proyectos operativos.\nLa aplicación tiene licencia para la Universidad de Vanderbilt. Para obtener más información sobre el consorcio REDCap, visite REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#qué-nos-facilita-redcap",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#qué-nos-facilita-redcap",
+    "title": "Capacitación RedCap",
+    "section": "",
+    "text": "Gestión completa de la recolección de datos para proyectos de investigacion o con otros fines\nDistintas estrategia de recolección:\n\nEncuesta transversal (único momento, con uno o varios formularios)\nEncuesta longitudinal (momento fijos o instrumentos repetidos)\nRecolección multicentrica\nEncuesta web (enlace o correo electrónico)\n\nEvaluación en linea de la calidad de los datos con seguimiento sobre cada unidad de observación\nDiversidad de formatos (Visualizacion de formulario), tipos de datos (texto, numero, archivos, fotos, coordenadas, audio, vídeo)\nConexions API desde otras aplicaciones\nRecolección mediante link, APP (android - Iphone) online u offline"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#requisito-obligatorio-instalación-solo-y-exclusivamente-en-servidores-preferiblemente-institucional",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#requisito-obligatorio-instalación-solo-y-exclusivamente-en-servidores-preferiblemente-institucional",
+    "title": "Capacitación RedCap",
+    "section": "",
+    "text": "Representa la mayor ventaja en la fase recolección de datos, donde recolectan datos sensibles, no es dependiente de un usuario especifico, ni de equipos locales como tecnicos, digitadores o staff investigativo."
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#definiendo",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#definiendo",
+    "title": "Capacitación RedCap",
+    "section": "Definiendo",
+    "text": "Definiendo\n\n\n\nFuente: Illustrations from Hadley Wickham’s ACM talk “The Joy of Functional Programming (for Data Science)"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#variables---campos",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#variables---campos",
+    "title": "Capacitación RedCap",
+    "section": "Variables - Campos",
+    "text": "Variables - Campos\n\n\n\n\n\n\nImportant\n\n\n\nInsumos: instrumentos, variables - validaciones - secuencia lógica en el diligenciamiento - variables calculadas)\n\n\n\n\n\nFuente: Illustrations from Hadley Wickham’s ACM talk “The Joy of Functional Programming (for Data Science)"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#fases-en-el-desarrollo",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#fases-en-el-desarrollo",
+    "title": "Capacitación RedCap",
+    "section": "Fases en el desarrollo",
+    "text": "Fases en el desarrollo\n\nFase incial:\n\n\nCreación del proyecto\nConfiguración del proyecto\nDiseño de formularios\n\n\n\n\n\nFuente: Illustrations from Hadley Wickham’s ACM talk “The Joy of Functional Programming (for Data Science)"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#completar-campos-para-creación-del-proyecto",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#completar-campos-para-creación-del-proyecto",
+    "title": "Capacitación RedCap",
+    "section": "Completar campos para creación del proyecto",
+    "text": "Completar campos para creación del proyecto\n\n\n\nImagen REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#configuración-del-proyecto",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#configuración-del-proyecto",
+    "title": "Capacitación RedCap",
+    "section": "Configuración del proyecto",
+    "text": "Configuración del proyecto\n\n\n\nImagen REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#agregar-un-nuevo-campo",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#agregar-un-nuevo-campo",
+    "title": "Capacitación RedCap",
+    "section": "Agregar un nuevo campo",
+    "text": "Agregar un nuevo campo\n\n\n\nImagen REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#seleccionar-un-tipo-de-campo-a-usar",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#seleccionar-un-tipo-de-campo-a-usar",
+    "title": "Capacitación RedCap",
+    "section": "Seleccionar un tipo de campo a usar",
+    "text": "Seleccionar un tipo de campo a usar\n\n\n\nImagen REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#formato-de-campo",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#formato-de-campo",
+    "title": "Capacitación RedCap",
+    "section": "Formato de campo",
+    "text": "Formato de campo\n\n\n\nImagen REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#formato-de-campo-1",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#formato-de-campo-1",
+    "title": "Capacitación RedCap",
+    "section": "Formato de campo",
+    "text": "Formato de campo\n\n\n\nImagen REDCap"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#formularios-finales",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#formularios-finales",
+    "title": "Capacitación RedCap",
+    "section": "Formularios finales",
+    "text": "Formularios finales\n\n\nFormulario por defecto \n\nFormulario personalizado"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#campo-embebido",
+    "href": "personal_web/jmea2.github.io/charlas/presentacion_redcap.html#campo-embebido",
+    "title": "Capacitación RedCap",
+    "section": "Campo embebido",
+    "text": "Campo embebido"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/articulos/papers.html",
+    "href": "personal_web/jmea2.github.io/articulos/papers.html",
+    "title": "Publicaciones",
+    "section": "",
+    "text": "Publicaciones\nEstrada Álvarez, J.M., Ossa García, X., del Quijano del Gordo, C.I. et al. Validation of the chronic respiratory questionnaire in the Colombian population with chronic obstructive pulmonary disease. Qual Life Res 24, 2039–2044 (2015). https://doi.org/10.1007/s11136-015-0939-1\nEstrada Álvarez JM, Ospina Ramírez JJ, Hincapié Acuña M, Gómez González MP. Estimación del intervalo serial y número reproductivo básico para los casos importados de COVID-19. Rev salud pública [Internet]. 2020 Mar-Abr [citado 12 Ago 2021];22(2). Disponible en: http://www.scielo.org.co/scielo.php?script=sci_arttext&pid=S0124-00642020000200214&lng=en&nrm=iso\nEstrada-Álvarez Jorge Mario, Orozco-Hernández Juan Pablo, Aristizábal-Franco Luis Evelio. Validación del puntaje de valoración de la gravedad de la enfermedad pulmonar obstructiva crónica en población colombiana en un servicio de atención primaria. Biomed. [Internet]. 2020 Dec [cited 2022 Sep 01] ; 40( 4 ): 664-672. https://doi.org/10.7705/biomedica.5123.\nCardona N, Ocampo SJ, Estrada JM, Mojica MI, Porras GL. Caracterización clínica y funcional de pacientes con atrofia muscular espinal en el centro-occidente colombiano. biomedica [Internet]. 1 de mayo de 2022 [citado 1 de septiembre de 2022];42(Sp. 1):89. https://revistabiomedica.org/index.php/biomedica/article/view/6178\nOsuna-Julio DL, Estrada-Álvarez JM, Araya-Marín MC, Meléndez-Puchana LA, Pérez-Rendón AL. Calidad de vida relacionada a la salud en pacientes con enfermedad pulmonar obstructiva crónica en Pereira, Colombia. Rev Ter [Internet]. 2021;15(2):56-62. https://138.59.135.20/index.php/RT/article/view/139"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/conferencias/Charlas.html",
+    "href": "personal_web/jmea2.github.io/conferencias/Charlas.html",
+    "title": "Conferencias",
+    "section": "",
+    "text": "Uso de Mendeley en Investigacion. Curso en Metodologia de la Investigación. Comfamiliar Risaralda. GESTOR BIBLIGRAFICO.pdf\nIdentificando el problema de investigación Curso en Metodologia de la Investigación. comfamiliar Risaralda. el problema.ppt"
+  },
+  {
+    "objectID": "posts/2022/aprendizaje inicial R/index.html",
+    "href": "posts/2022/aprendizaje inicial R/index.html",
+    "title": "Algunos libros de R para iniciar en su aprendizaje",
+    "section": "",
+    "text": "El dia de hoy les traigo varios libros que a mi parecer dan una muy buena guia para iniciar en el mundo de R . En aspectos elementales para quienes inician en el lenguaje R. De la autora"
+  },
+  {
+    "objectID": "posts/2022/aprendizaje inicial R/index.html#un-segundo-libro-de-la-misma-autora",
+    "href": "posts/2022/aprendizaje inicial R/index.html#un-segundo-libro-de-la-misma-autora",
+    "title": "Algunos libros de R para iniciar en su aprendizaje",
+    "section": "Un segundo libro de la misma autora:",
+    "text": "Un segundo libro de la misma autora:\n\nData Manipulation, cubre todos los requisitos esenciales para trabajar día a día con R. Este libro definitivamente ayudará a aquellos que están pasando de las hojas de cálculo a dominar R. contiene inicios de trabajo en el gran ecosistema de manipulacion de datos conocido como #tidyverse , en especial #tdlyr y #dplyr que no deben faltar en el trabajo de campo en el dia a dia. https://a.co/3whNuqB"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/posts/2022/aprendizaje inicial R/index.html",
+    "href": "personal_web/jmea2.github.io/posts/2022/aprendizaje inicial R/index.html",
+    "title": "Algunos libros de R para iniciar en su aprendizaje",
+    "section": "",
+    "text": "El dia de hoy les traigo varios libros que a mi parecer dan una muy buena guia para iniciar en el mundo de R . En aspectos elementales para quienes inician en el lenguaje R. De la autora"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/posts/2022/aprendizaje inicial R/index.html#un-segundo-libro-de-la-misma-autora",
+    "href": "personal_web/jmea2.github.io/posts/2022/aprendizaje inicial R/index.html#un-segundo-libro-de-la-misma-autora",
+    "title": "Algunos libros de R para iniciar en su aprendizaje",
+    "section": "Un segundo libro de la misma autora:",
+    "text": "Un segundo libro de la misma autora:\n\nData Manipulation, cubre todos los requisitos esenciales para trabajar día a día con R. Este libro definitivamente ayudará a aquellos que están pasando de las hojas de cálculo a dominar R. contiene inicios de trabajo en el gran ecosistema de manipulacion de datos conocido como #tidyverse , en especial #tdlyr y #dplyr que no deben faltar en el trabajo de campo en el dia a dia. https://a.co/3whNuqB"
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/index.html",
+    "href": "personal_web/jmea2.github.io/index.html",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "soy un profesional de salud con grado en matematicas, Epidemiologo y estudio PhD en Estadistica Aplicada en Universidad de Granada de España, realizo un Fellowship en Field Epidemiology Traning Program (FETP) del Instituto Nacional de Salud de Colombia.\nMi trabajo actual se enfoca en la vigilancia de enfermedades de interés en salud publica, especialmente enfermedades infecciosas, así como también el desarrollo de investigación clinica aplicada, concentración en la implementación de diferentes aplicaciones de la ciencia de datos en salud, salud pública, epidemiologia y Geodata en salud.\nSoy un entusiasta de R Software, busco e implemento paquetes de R para el análisis de datos y producción de resultados tipo publicación.\nDirijo el grupo de vigilancia en salud publica y respuesta a brotes y epidemias en una entidad territorial de salud del municipio de Pereira, asi como también hago parte del Centro Internacional de investigación en salud Comfamiliar (siglas en ingles INCERH), donde hago parte del Grupo de Investogación Salud Comfamiliar categoria A1 segun clasificacion del Ministerio de Ciencia y Tecnologia de Colombia.\n\n\n\n\n\nUniversitaria\n\nBSc. en Matematicas y Fisica. Universidad Tecnologica de Pereira, Colombia.\nMSc. en epidemiologia clinica. Universidad de la Frontera, Temuco, Chile.\nMSc. en Estadistica Aplicada. Universidad de Granada, Granada, España.\nMaster en Machine Learning con R (Titulo propio).\nPhD (estudiante) en Estadistica Aplicada. Universidad de Granada, Granada, España.\n\n\n\n\n\n\n\nInvestigación epidemiologica de Campo\nMétodos estadísticos para la vigilancia en Salud publica en la detección de brotes o comportamientos inusuales\nResistencia antimicrobiana\nAnálisis Espacial en salud publica para priorización e identificacion de problemas en salud publica\nEnseñanza e implementación de R software en Epidemiologia de campo Front-Line, Intermedio y Avanzado.\nImplementación de Muestreo en encuestas en salud publica\nVigilancia de circulación viral respiratoria e Infección Respiratoria Aguda."
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/index.html#bio",
+    "href": "personal_web/jmea2.github.io/index.html#bio",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "soy un profesional de salud con grado en matematicas, Epidemiologo y estudio PhD en Estadistica Aplicada en Universidad de Granada de España, realizo un Fellowship en Field Epidemiology Traning Program (FETP) del Instituto Nacional de Salud de Colombia.\nMi trabajo actual se enfoca en la vigilancia de enfermedades de interés en salud publica, especialmente enfermedades infecciosas, así como también el desarrollo de investigación clinica aplicada, concentración en la implementación de diferentes aplicaciones de la ciencia de datos en salud, salud pública, epidemiologia y Geodata en salud.\nSoy un entusiasta de R Software, busco e implemento paquetes de R para el análisis de datos y producción de resultados tipo publicación.\nDirijo el grupo de vigilancia en salud publica y respuesta a brotes y epidemias en una entidad territorial de salud del municipio de Pereira, asi como también hago parte del Centro Internacional de investigación en salud Comfamiliar (siglas en ingles INCERH), donde hago parte del Grupo de Investogación Salud Comfamiliar categoria A1 segun clasificacion del Ministerio de Ciencia y Tecnologia de Colombia."
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/index.html#educación",
+    "href": "personal_web/jmea2.github.io/index.html#educación",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "Universitaria\n\nBSc. en Matematicas y Fisica. Universidad Tecnologica de Pereira, Colombia.\nMSc. en epidemiologia clinica. Universidad de la Frontera, Temuco, Chile.\nMSc. en Estadistica Aplicada. Universidad de Granada, Granada, España.\nMaster en Machine Learning con R (Titulo propio).\nPhD (estudiante) en Estadistica Aplicada. Universidad de Granada, Granada, España."
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/index.html#intereses-de-investigación",
+    "href": "personal_web/jmea2.github.io/index.html#intereses-de-investigación",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "Investigación epidemiologica de Campo\nMétodos estadísticos para la vigilancia en Salud publica en la detección de brotes o comportamientos inusuales\nResistencia antimicrobiana\nAnálisis Espacial en salud publica para priorización e identificacion de problemas en salud publica\nEnseñanza e implementación de R software en Epidemiologia de campo Front-Line, Intermedio y Avanzado.\nImplementación de Muestreo en encuestas en salud publica\nVigilancia de circulación viral respiratoria e Infección Respiratoria Aguda."
+  },
+  {
+    "objectID": "personal_web/jmea2.github.io/blog.html",
+    "href": "personal_web/jmea2.github.io/blog.html",
+    "title": "Jorge Mario Estrada Alvarez",
+    "section": "",
+    "text": "Algunos libros de R para iniciar en su aprendizaje\n\n\n\n\n\n\nPublications\n\n\nBeaver\n\n\n\nIniciando en R\n\n\n\n\n\nSep 2, 2022\n\n\nJorge Mario Estrada\n\n\n\n\n\n\nNo matching items"
+  }
+]
