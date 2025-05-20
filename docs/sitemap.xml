@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>/index.html</loc>
-    <lastmod>2022-09-02T16:36:35.301Z</lastmod>
+    <lastmod>2025-05-20T01:38:32.677Z</lastmod>
   </url>
   <url>
     <loc>/blog.html</loc>
@@ -43,5 +43,9 @@
   <url>
     <loc>/charlas/presentacion_redcap.html</loc>
     <lastmod>2023-06-20T22:23:52.782Z</lastmod>
+  </url>
+  <url>
+    <loc>/articulos/papers.html</loc>
+    <lastmod>2022-09-02T01:03:56.183Z</lastmod>
   </url>
 </urlset>
